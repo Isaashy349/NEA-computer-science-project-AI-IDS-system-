@@ -1,0 +1,8 @@
+feature,min,max
+packet_count,1.0,511.0
+avg_packet_size,1.0,49979.0
+duration,0.0,99.0
+failed_logins,0.0,9.0
+data_volume,0.0,7998.0
+unusual_port,0.0,1.0
+requests_per_sec,0.010309278350515464,511.0
